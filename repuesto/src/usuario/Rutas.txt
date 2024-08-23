@@ -1,0 +1,13 @@
+Para su uso
+LINK = https://nestmongo-production-5873.up.railway.app
+Ruta                                        Metodo                 Funcion                               Forma de ejecutar
+LINK/lista-repuestos/, METODO GET          (muestra toda la lista de item)  --- Se obtiene la lista completa de Item de repuesto
+LINK/:id, METODO GET       (muestra 1 item de lista)        --- Pasado por id se obtine un item de los repuesto
+LINK/crear, METODO POST    (añade item a la list)           --- Pasando por Body los datos en rapi
+LINK/lista-repuestos/upgrade, METODO PUT   (modifica item)                  --- Pasando por Body los datos y por query el id en rapy
+LINK/lista-repuestos/borrar, METODO DELETE (borra item)                     --- Pasando id por query en rapi
+LINK/usuario/registro                       (crea Usuario)                  --- Introduciendo datos por rapi en  Form URL-Encoded
+LINK/usuario/registro                       (loguea Usuario)                --- Introduciendo datos por rapi en  Form URL-Encoded
+LINK/usuario/login
+
+Nota se deja un archivo json que con es la exportacion de mi base datos usada para este desafio y puede insertarse en mongo para tener algo que manipular y hacer las pruebas
