@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "667cb2a11b42ba9c76707f2f"
+  },
+  "codigo": "152045",
+  "name": "Tensor 35",
+  "marca": "chevrolet",
+  "categoria": "koreano",
+  "description": "parte de kit de correa de los tiempos",
+  "price": 45,
+  "__v": 0,
+  "imageURL": "N/A"
+},
+{
+  "_id": {
+    "$oid": "667cbf691b42ba9c76707f31"
+  },
+  "codigo": "15890",
+  "name": "correa de los tiempos",
+  "marca": "gate",
+  "categoria": "USA",
+  "description": "parte de kit de correa de los tiempos",
+  "price": 40,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667cbfbb1b42ba9c76707f33"
+  },
+  "codigo": "6800",
+  "name": "Cadena de Tiempos",
+  "marca": "ZUSUKI",
+  "categoria": "JAPAN",
+  "description": "Cadena de tiempos para Grand Vitara",
+  "price": 145,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667cc0021b42ba9c76707f37"
+  },
+  "codigo": "8579",
+  "name": "bomba de aceite",
+  "marca": "chevrolet",
+  "categoria": "Nacional",
+  "description": "Bomba de Aceite para Optra/Aveo",
+  "price": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667cc0331b42ba9c76707f39"
+  },
+  "codigo": "32000",
+  "name": "Pila de Bomba de gasolina",
+  "marca": "BOSH",
+  "categoria": "ALEMAN",
+  "description": "Bomba Universal",
+  "price": 70,
+  "__v": 0
+}]
